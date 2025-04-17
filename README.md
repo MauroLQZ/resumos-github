@@ -7,9 +7,12 @@
   - [Documentação Git](https://git.scm.com/doc)
   - [Documentação GitHub](https://docs.github.com/)
 
-  | Aulas | Resumos  |
+  | Aulas | Resumos  |  
   |.......|..........|
-  |Gravando alterações no repositório|[Resumos](https://github.com/MauroLQZ/maurolqz)
+  
+  |Aula 01|[Resumos]()|
+
+  |Aula 02|[Resumos]()|
 
   ```
    git init
